@@ -47,7 +47,7 @@ function copy() {
 
 // Copy page templates into finished HTML files
 function pages() {
-  return gulp.src('src/pages/**/*.{html,hbs,handlebars}')
+  return gulp.src('src/pages/**/*.{html,hbs,handlebars,md}')
     .pipe(panini({
       root: 'src/pages/',
       layouts: 'src/layouts/',
@@ -55,6 +55,7 @@ function pages() {
       data: 'src/data/',
       helpers: 'src/helpers/'
     }))
+    .pipe($.if(/\.md$/, $.rename({extname: '.html'})))
     .pipe(gulp.dest(PATHS.dist));
 }
 

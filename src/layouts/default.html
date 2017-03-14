@@ -6,13 +6,28 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Foundation for Sites</title>
+    <title>{{title}}</title>
     <link rel="stylesheet" href="{{root}}assets/css/app.css">
   </head>
   <body>
-
+    <nav class="top-bar">
+      <div class="top-bar-title site-title">
+        <a href="/">FATREC 2017</a>
+      </div>
+      <div class="top-bar-right">
+        <ul class="menu">
+          <li><a href="/cfp.html">Call</a>
+        </ul>
+      </div>
+    </nav>
     {{!-- Pages you create in the src/pages/ folder are inserted here when the flattened page is created. --}}
+    {{#if markdown}}
+    {{#renderMD}}
+    {{body}}
+    {{/renderMD}}
+    {{else}}
     {{> body}}
+    {{/if}}
 
     <script src="{{root}}assets/js/app.js"></script>
   </body>
