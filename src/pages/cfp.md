@@ -7,7 +7,7 @@ title: Call for Papers
 
 The FATREC Workshop on Responsible Recommendation at RecSys 2017 is a venue for discussing questions of social responsibility in building, maintaining, evaluating, and studying recommender systems. This will be an interactive workshop with position papers, research papers, and discussion about how ethical, social, and legal concerns impact recommender systems research and development, hoping to result in an agenda for research on socially responsible recommendation. 
 
-FATREC stands for Fairness, Accountability and Transparency in Recommender Systems and aims to draw attention to these issues at ACM RecSys 2016, as has been done  in the machine learning community (FATML) There are many potential aspects of responsibility in recommendation, including (but not limited to):
+FATREC stands for Fairness, Accountability and Transparency in Recommender Systems and aims to draw attention to these issues at ACM RecSys 2016, as has been done in the machine learning community through events such as [FATML](http://www.fatml.org/). There are many potential aspects of responsibility in recommendation, including (but not limited to):
 
 - Bias and discrimination in recommendations
 - Imbalance in meeting the needs of different groups of users
