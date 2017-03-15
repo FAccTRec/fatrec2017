@@ -1,6 +1,7 @@
 image: node:boron-alpine
 
 before_script:
+- apk add --no-cache git
 - npm install -g gulp-cli bower
 - npm install
 - bower install
