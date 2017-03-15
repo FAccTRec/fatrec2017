@@ -69,6 +69,9 @@ function pages() {
       data: 'src/data/',
       helpers: 'src/helpers/'
     }))
+    .pipe($.posthtml([
+      require('posthtml-obfuscate')()
+    ]))
     .pipe(gulp.dest(PATHS.dist));
 }
 

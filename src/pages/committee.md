@@ -1,9 +1,13 @@
+---
+title: Committee
+---
+
 # Committee
 
 ## Organizers
 
-* Michael D. Ekstrand, Boise State University
-* Amit Sharma, Microsoft Research
+* Michael D. Ekstrand, Boise State University — <michaelekstrand@boisestate.edu>
+* Amit Sharma, Microsoft Research — <amshar@microsoft.com>
 
 ## Program Committee
 
