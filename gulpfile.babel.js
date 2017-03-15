@@ -9,6 +9,7 @@ import rimraf   from 'rimraf';
 import sherpa   from 'style-sherpa';
 import yaml     from 'js-yaml';
 import fs       from 'fs';
+import through2 from 'through2';
 
 // Load all Gulp plugins into one variable
 const $ = plugins();
@@ -48,7 +49,19 @@ function copy() {
 // Copy page templates into finished HTML files
 function pages() {
   return gulp.src('src/pages/**/*.{html,hbs,handlebars,md}')
+    .pipe($.frontMatter({
+      property: 'meta',
+      remove: true
+    }))
     .pipe($.if(/\.md$/, $.remarkable({html: true})))
+    .pipe(through2.obj((file, enc, cb) => {
+      if (file.meta) {
+        var txt = yaml.safeDump(file.meta);
+        var nc = `---\n${txt}\n---\n\n${file.contents.toString()}`;
+        file.contents = new Buffer(nc, 'utf8');
+      }
+      cb(null, file);
+    }))
     .pipe(panini({
       root: 'src/pages/',
       layouts: 'src/layouts/',
