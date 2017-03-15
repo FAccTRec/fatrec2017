@@ -31,7 +31,7 @@ We invite the following types of papers:
 
 Papers will be reviewed by a program committee, and accepted papers will be published through Boise State University ScholarWorks (each paper will have its own DOI and be indexed by Google Scholar and similar services).
 
-Submit papers in ACM SIG format via EasyChair (to be opened).
+Submit papers in ACM SIG format [via EasyChair](https://easychair.org/conferences/?conf=fatrec2017).
 
 **Important Dates:**
 
