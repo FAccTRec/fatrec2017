@@ -1,3 +1,22 @@
 .site-title {
     font-weight: bold;
 }
+
+.top-bar {
+    color: $white;
+
+    .menu li:hover {
+        background-color: $dark-gray;
+    }
+}
+.top-bar a {
+    &:link, &:visited {
+        color: $white;
+    }
+    &:hover {
+        text-decoration: underline;
+    }
+    &:active {
+        color: $secondary-color;
+    }
+}
