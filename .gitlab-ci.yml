@@ -3,7 +3,7 @@ image: node:boron
 before_script:
 - npm install -g gulp-cli bower
 - npm install
-- bower install
+- bower install --allow-root
 
 cache:
   paths:
