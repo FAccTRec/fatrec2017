@@ -53,7 +53,7 @@ function pages() {
       property: 'meta',
       remove: true
     }))
-    .pipe($.if(/\.md$/, $.remarkable({html: true})))
+    .pipe($.if(/\.md$/, $.remarkable({remarkableOptions: {html: true, linkify: true}})))
     .pipe(through2.obj((file, enc, cb) => {
       if (file.meta) {
         var txt = yaml.safeDump(file.meta);
