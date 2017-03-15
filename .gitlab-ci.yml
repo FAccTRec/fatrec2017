@@ -1,0 +1,19 @@
+image: node:boron-alpine
+
+before_script:
+- npm install -g gulp-cli bower
+- npm install
+- bower install
+
+cache:
+  paths:
+  - node_modules
+
+pages:
+  script:
+  - gulp build
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
