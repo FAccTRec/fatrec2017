@@ -27,6 +27,8 @@ We invite the following types of papers:
 - *Accountability* — to whom, and under what standard, should a recommender system be accountable? How can or should it and its operators be held accountable? What harms should such accountability be designed to prevent?
 - *Transparency* — what is the value of transparency in recommendation, and how might it be achieved? How might it trade off with other important concerns?
 
+We also welcome up to 2 page abstracts that describe practical issues in building responsible recommendations. These could be both research systems or production systems in industry.
+
 **Research papers** up to 6 pages in length presenting empirical or analytical results related to the social impact of recommender systems or algorithms. These could be explorations of bias in recommender systems (either live systems or sandboxed algorithms), explainability and transparency of recommender systems, experiments regarding the impact of the recommender on its users or others, etc. We will construe the topics broadly.
 
 Papers will be reviewed by a program committee, and accepted papers will be published through Boise State University ScholarWorks (each paper will have its own DOI and be indexed by Google Scholar and similar services).
