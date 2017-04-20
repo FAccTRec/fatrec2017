@@ -23,4 +23,12 @@ Microsoft Research<br>
 
 ## Program Committee
 
-TBA.
+- Suresh Venkatasubramanian (University of Utah)
+- Bart Knijnenburg (Clemson University)
+- Krishna Gummadi (MPI-SWS)
+- Solon Barocas (Microsoft Research, Cornell University)
+- Pablo Castells (Universidad Autónoma de Madrid)
+- Jennifer Golbeck (University of Maryland)
+- Ed H. Chi (Google)
+
+This list is current as of Apr. 20, 2017; additional program committee members may be added later.
