@@ -17,19 +17,21 @@ Boise State University<br>
 <img src="assets/img/amit.jpg" style="height:192px;"><br>
 <a href="http://amitsharma.in/">Amit Sharma</a><br>
 Microsoft Research<br>
-<a href="mailto:amshar@microsoft.com">amshar@microsoft.com</a>
+<a href="mailto:me@amitsharma.in">me@amitsharma.in</a>
 </div>
 </div>
 
 ## Program Committee
 
-- Suresh Venkatasubramanian (University of Utah)
-- Bart Knijnenburg (Clemson University)
-- Krishna Gummadi (MPI-SWS)
 - Solon Barocas (Microsoft Research, Cornell University)
 - Pablo Castells (Universidad Autónoma de Madrid)
-- Jennifer Golbeck (University of Maryland)
 - Ed H. Chi (Google)
 - Dan Cosley (Cornell University)
-
-This list is current as of Apr. 20, 2017; additional program committee members may be added later.
+- Jennifer Golbeck (University of Maryland)
+- Krishna Gummadi (MPI-SWS)
+- Daniel Kluver (University of Minnesota / Macalester College)
+- Bart Knijnenburg (Clemson University)
+- Martha Larson (Radboud University / Delft University of Technology)
+- Maria Soledad Pera (Boise State University)
+- Pierre-Nicolas Schwab (IntoTheMinds / RTBF)
+- Suresh Venkatasubramanian (University of Utah) 
