@@ -23,13 +23,13 @@ Each paper session will follow a similar format, with some differences in timing
 
 ## Session 2 (11 AM–12:30 PM)
 
-- *Measuring Fairness and Tradeoffs*
+- **Measuring Fairness and Tradeoffs**
 
     1. _Quantifying Knowledge Segregation in Society_. Abhijnan Chakraborty, Muhammad Ali, Saptarshi Ghosh, Niloy Ganguly, and Krishna P. Gummadi.
     2. _Impact of Task Recommendation Systems in Crowdsourcing Platforms_. Kathrin Borchert, Matthias Hirth, Steffen Schnitzer, and Christoph Rensing.
     3. _Price of fairness for location based advertising_. Christopher Riederer and Augustin Chaintreau.
 
-- *Explanations and Persuasion*
+- **Explanations and Persuasion**
 
     1. _Explanation Strategies for Matrix Factorization Recommender Systems_. Bashir Rastegarpanah, Mark Crovella, and Krishna Gummadi.
     2. _Do News Consumers Want Explanations for Personalized News Rankings?_. Maartje Ter Hoeve, Mathieu Heruer, Daan Odijk, Anne Schuth, Martijn Spitters, Ron Mulder, Nick van der Wildt, and Maarten de Rijke.
