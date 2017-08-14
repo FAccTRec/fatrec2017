@@ -19,7 +19,7 @@ Each paper session will follow a similar format, with some differences in timing
 
 - *Setting the Stage*
 
-    1. _Towards Minimal Necessary DAta: The Case for Analyzing Training Data Requirements of Recommender Algorithms_. Martha Larson, Alessandro Zito, Babak Loni, and Paolo Cremonesi.
+    1. _Towards Minimal Necessary Data: The Case for Analyzing Training Data Requirements of Recommender Algorithms_. Martha Larson, Alessandro Zito, Babak Loni, and Paolo Cremonesi.
     2. _Quantifying Knowledge Segregation in Society_. Abhijnan Chakraborty, Muhammad Ali, Saptarshi Ghosh, Niloy Ganguly, and Krishna P. Gummadi.
     3. _Balanced Neighborhoods for Fairness-Aware Collaborative Recommendation_. Robin Burke, Nasim Sonboli, Masoud Mansoury, and Aldo Ordonez-Gauger.
 
@@ -48,7 +48,7 @@ Each paper session will follow a similar format, with some differences in timing
 - **Fair Algorithms**
 
     1. _Academic performance prediction in a gender-imbalanced environment_. Piotr Sapiezynski, Valentin Kassarnig, Christo Wilson, Sune Lehmann, and Alan Mislove.
-    2. _Consideration on Recommendation Independence for a Finding-Good-Items Task_. Toshihiro Kamishima and Shotaro Akaho.
+    2. _Consideration on Recommendation Independence for a Find-Good-Items Task_. Toshihiro Kamishima and Shotaro Akaho.
 
 ## Coffee (3:30–4 PM)
 
