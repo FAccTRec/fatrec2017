@@ -17,7 +17,11 @@ Each paper session will follow a similar format, with some differences in timing
 
 - Opening Remarks
 
-- Keynote address from Krishna Gummadi
+- *Setting the Stage*
+
+    1. _Towards Minimal Necessary DAta: The Case for Analyzing Training Data Requirements of Recommender Algorithms_. Martha Larson, Alessandro Zito, Babak Loni, and Paolo Cremonesi.
+    2. _Quantifying Knowledge Segregation in Society_. Abhijnan Chakraborty, Muhammad Ali, Saptarshi Ghosh, Niloy Ganguly, and Krishna P. Gummadi.
+    3. _Balanced Neighborhoods for Fairness-Aware Collaborative Recommendation_. Robin Burke, Nasim Sonboli, Masoud Mansoury, and Aldo Ordonez-Gauger.
 
 ## Coffee (10:30–11 AM)
 
@@ -25,9 +29,9 @@ Each paper session will follow a similar format, with some differences in timing
 
 - **Measuring Fairness and Tradeoffs**
 
-    1. _Quantifying Knowledge Segregation in Society_. Abhijnan Chakraborty, Muhammad Ali, Saptarshi Ghosh, Niloy Ganguly, and Krishna P. Gummadi.
-    2. _Impact of Task Recommendation Systems in Crowdsourcing Platforms_. Kathrin Borchert, Matthias Hirth, Steffen Schnitzer, and Christoph Rensing.
-    3. _Price of fairness for location based advertising_. Christopher Riederer and Augustin Chaintreau.
+    1. _Impact of Task Recommendation Systems in Crowdsourcing Platforms_. Kathrin Borchert, Matthias Hirth, Steffen Schnitzer, and Christoph Rensing.
+    2. _Price of fairness for location based advertising_. Christopher Riederer and Augustin Chaintreau.
+    3. _Fair Sharing for Sharing Economy Platforms_. Abhijnan Chakraborty, Joanna Asia Biega, Aniko Hannak, and Krishna P. Gummadi.
 
 - **Explanations and Persuasion**
 
@@ -39,14 +43,12 @@ Each paper session will follow a similar format, with some differences in timing
 
 ## Session 3 (2–3:30 PM)
 
+- **Keynote Address** by Krishna Gummadi.
+
 - **Fair Algorithms**
 
-    1. _Balanced Neighborhoods for Fairness-Aware Collaborative Recommendation_. Robin Burke, Nasim Sonboli, Masoud Mansoury, and Aldo Ordonez-Gauger.    
-    2. _Academic performance prediction in a gender-imbalanced environment_. Piotr Sapiezynski, Valentin Kassarnig, Christo Wilson, Sune Lehmann, and Alan Mislove.
-    3. _Consideration on Recommendation Independence for a Finding-Good-Items Task_. Toshihiro Kamishima and Shotaro Akaho.
-    4. _Fair Sharing for Sharing Economy Platforms_. Abhijnan Chakraborty, Joanna Asia Biega, Aniko Hannak, and Krishna P. Gummadi.
-    
-- **Spotlight Paper:** _Towards Minimal Necessary Data: The Case for Analyzing Training Data Requirements of Recommender Algorithms_. Martha Larson, Alessandro Zito, Babak Loni, and Paolo Cremonesi.
+    1. _Academic performance prediction in a gender-imbalanced environment_. Piotr Sapiezynski, Valentin Kassarnig, Christo Wilson, Sune Lehmann, and Alan Mislove.
+    2. _Consideration on Recommendation Independence for a Finding-Good-Items Task_. Toshihiro Kamishima and Shotaro Akaho.
 
 ## Coffee (3:30–4 PM)
 
