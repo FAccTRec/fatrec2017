@@ -6,6 +6,8 @@ title: Program
 
 The following is our tentative program, subject to change.
 
+Complete proceedings are in [ScholarWorks](http://scholarworks.boisestate.edu/cs_facpubs/98/).
+
 ## Format
 
 Each paper session will follow a similar format, with some differences in timing:
