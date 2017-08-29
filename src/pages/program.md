@@ -45,7 +45,7 @@ Each paper session will follow a similar format, with some differences in timing
 
 ## Session 3 (2–3:30 PM)
 
-- **Keynote Address** by Krishna Gummadi.
+- **Keynote Address**: _[Discrimination in Decision Making](keynote.html)_ by Krishna Gummadi.
 
 - **Fair Algorithms**
 
