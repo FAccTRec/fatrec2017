@@ -21,9 +21,9 @@ Each paper session will follow a similar format, with some differences in timing
 
 - *Setting the Stage*
 
-    1. _Towards Minimal Necessary Data: The Case for Analyzing Training Data Requirements of Recommender Algorithms_. Martha Larson, Alessandro Zito, Babak Loni, and Paolo Cremonesi.
-    2. _Quantifying Knowledge Segregation in Society_. Abhijnan Chakraborty, Muhammad Ali, Saptarshi Ghosh, Niloy Ganguly, and Krishna P. Gummadi.
-    3. _Balanced Neighborhoods for Fairness-Aware Collaborative Recommendation_. Robin Burke, Nasim Sonboli, Masoud Mansoury, and Aldo Ordonez-Gauger.
+    1. _[Towards Minimal Necessary Data: The Case for Analyzing Training Data Requirements of Recommender Algorithms](http://scholarworks.boisestate.edu/fatrec/2017/1/1)_. Martha Larson, Alessandro Zito, Babak Loni, and Paolo Cremonesi.
+    2. _[Quantifying Knowledge Segregation in Society](http://scholarworks.boisestate.edu/fatrec/2017/1/2)_. Abhijnan Chakraborty, Muhammad Ali, Saptarshi Ghosh, Niloy Ganguly, and Krishna P. Gummadi.
+    3. _[Balanced Neighborhoods for Fairness-Aware Collaborative Recommendation](http://scholarworks.boisestate.edu/fatrec/2017/1/3)_. Robin Burke, Nasim Sonboli, Masoud Mansoury, and Aldo Ordonez-Gauger.
 
 ## Coffee (10:30–11 AM)
 
@@ -31,15 +31,15 @@ Each paper session will follow a similar format, with some differences in timing
 
 - **Measuring Fairness and Tradeoffs**
 
-    1. _Impact of Task Recommendation Systems in Crowdsourcing Platforms_. Kathrin Borchert, Matthias Hirth, Steffen Schnitzer, and Christoph Rensing.
-    2. _Price of fairness for location based advertising_. Christopher Riederer and Augustin Chaintreau.
-    3. _Fair Sharing for Sharing Economy Platforms_. Abhijnan Chakraborty, Joanna Asia Biega, Aniko Hannak, and Krishna P. Gummadi.
+    1. _[Impact of Task Recommendation Systems in Crowdsourcing Platforms](http://scholarworks.boisestate.edu/fatrec/2017/1/4)_. Kathrin Borchert, Matthias Hirth, Steffen Schnitzer, and Christoph Rensing.
+    2. _[Price of fairness for location based advertising](http://scholarworks.boisestate.edu/fatrec/2017/1/5)_. Christopher Riederer and Augustin Chaintreau.
+    3. _[Fair Sharing for Sharing Economy Platforms](http://scholarworks.boisestate.edu/fatrec/2017/1/6)_. Abhijnan Chakraborty, Joanna Asia Biega, Aniko Hannak, and Krishna P. Gummadi.
 
 - **Explanations and Persuasion**
 
-    1. _Explanation Strategies for Matrix Factorization Recommender Systems_. Bashir Rastegarpanah, Mark Crovella, and Krishna Gummadi.
-    2. _Do News Consumers Want Explanations for Personalized News Rankings?_. Maartje Ter Hoeve, Mathieu Heruer, Daan Odijk, Anne Schuth, Martijn Spitters, Ron Mulder, Nick van der Wildt, and Maarten de Rijke.
-    3. _Presenting Challenging Recommendations: Making Diverse News Acceptable_. Nava Tintarev.
+    1. _[Explanation Strategies for Matrix Factorization Recommender Systems](http://scholarworks.boisestate.edu/fatrec/2017/1/7)_. Bashir Rastegarpanah, Mark Crovella, and Krishna Gummadi.
+    2. _[Do News Consumers Want Explanations for Personalized News Rankings?](http://scholarworks.boisestate.edu/fatrec/2017/1/8)_. Maartje Ter Hoeve, Mathieu Heruer, Daan Odijk, Anne Schuth, Martijn Spitters, Ron Mulder, Nick van der Wildt, and Maarten de Rijke.
+    3. _[Presenting Challenging Recommendations: Making Diverse News Acceptable](http://scholarworks.boisestate.edu/fatrec/2017/1/9)_. Nava Tintarev.
 
 ## Lunch (12:30–2 PM)
 
@@ -49,8 +49,8 @@ Each paper session will follow a similar format, with some differences in timing
 
 - **Fair Algorithms**
 
-    1. _Academic performance prediction in a gender-imbalanced environment_. Piotr Sapiezynski, Valentin Kassarnig, Christo Wilson, Sune Lehmann, and Alan Mislove.
-    2. _Consideration on Recommendation Independence for a Find-Good-Items Task_. Toshihiro Kamishima and Shotaro Akaho.
+    1. _[Academic performance prediction in a gender-imbalanced environment](http://scholarworks.boisestate.edu/fatrec/2017/1/10)_. Piotr Sapiezynski, Valentin Kassarnig, Christo Wilson, Sune Lehmann, and Alan Mislove.
+    2. _[Consideration on Recommendation Independence for a Find-Good-Items Task](http://scholarworks.boisestate.edu/fatrec/2017/1/11)_. Toshihiro Kamishima and Shotaro Akaho.
 
 ## Coffee (3:30–4 PM)
 
